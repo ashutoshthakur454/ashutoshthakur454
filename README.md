@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Undergrad Project<br><br>🌱 I’m currently learning Natural Language Processing<br><br>📫 How to reach me ashutosh.thakur.mec21@itbhu.ac.in</p>
+<p align="left">🔭 I’m currently working on my <a href = "https://github.com/ashutoshthakur454/UGP">Undergrad Project</a><br><br>🌱 I’m currently learning Natural Language Processing<br><br>📫 Reach me at: ashutosh.thakur.mec21@itbhu.ac.in</p>
 
 ###
 <h3 align="left">Connect with me:</h3>
