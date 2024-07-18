@@ -1,14 +1,28 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Thakur</h1>
-<h3 align="center">A student from IIT (BHU) Varanasi, interested in field of Machine Learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshthakur454&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshthakur454" /> </p>
+###
 
-- 🔭 I’m currently working on [Undergrad Project](https://github.com/ashutoshthakur454/UGP)
+<img align="left" height="40" src="https://datascientest.com/en/wp-content/uploads/sites/9/2021/01/Machine-learning-def-.png"  />
 
-- 🌱 I’m currently learning **Natural Language Processing**
+###
 
-- 📫 How to reach me **ashutosh.thakur.mec21@itbhu.ac.in**
+<p align="left">A student from IIT (BHU) Varanasi, interested in field of Machine Learning</p>
 
+###
+
+<img align="right" height="200" src="https://media.tenor.com/KdkhCJ65m0sAAAAj/peach-goma-peach-and-goma.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ashutoshthakur454.ashutoshthakur454&"  />
+</div>
+
+###
+
+<p align="left">🔭 I’m currently working on Undergrad Project<br><br>🌱 I’m currently learning Natural Language Processing<br><br>📫 How to reach me ashutosh.thakur.mec21@itbhu.ac.in</p>
+
+###
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ashutoshthakuriitbhu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashutoshthakuriitbhu/" height="30" width="40" /></a>
